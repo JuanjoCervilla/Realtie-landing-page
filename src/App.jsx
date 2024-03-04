@@ -1,7 +1,6 @@
-
 function App() {
   return (
-    <span>subscribe Zainkeepscode</span>
+    <span>Modificando el código</span>
   );
 }
 
